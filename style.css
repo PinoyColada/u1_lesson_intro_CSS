@@ -1,0 +1,44 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #b39ddb;
+    padding: 10px 0;
+}
+
+element {
+    padding: 1px 2px 2px 1px;
+}
+ul {
+    list-style: none;
+  }
+  
+li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header {
+    text-align: center;
+    height: 400px;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+section{
+    text-align: center;
+    padding: 5px;
+}
+
+.box {
+    display: inline-block;
+    height: 20px;
+    width: 200px;
+    padding: 50px;
+    margin: 100px;
+    color: black;
+    background-color: #b39ddb;
+    border: 1px solid black;
+}
